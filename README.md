@@ -1,5 +1,12 @@
 # WebScript Server Coursework
 
+## Disclaimer
+
+All the following text (but this Disclaimer) was written by the lecturers of the unit called _Web-Script Programming_
+
+Only the code on the `server.js` file was written by me.
+It passes all tests but the last one :(
+
 **Before** you start coding, read _all_ of this document.
 
 ----
